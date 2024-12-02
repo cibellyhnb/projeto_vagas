@@ -35,17 +35,6 @@ Este projeto foi implementado como parte das atividades da ResTIC36, seguindo os
 
 ---
 
-## Estrutura do Projeto
-
-```plaintext
-/src
-  /contexts
-    AuthContext.tsx
-  /types
-    User.ts
-
----
-
 ## Instalação e Configuração
 
 1. **Clone o repositório**  
@@ -69,3 +58,16 @@ Este projeto foi implementado como parte das atividades da ResTIC36, seguindo os
 2. Edite suas informações na tela de perfil.
 
 3. Faça logout para encerrar sua sessão.
+
+---
+
+## Estrutura do Projeto
+
+```plaintext
+/src
+  /contexts
+    AuthContext.tsx
+  /types
+    User.ts
+
+---
