@@ -46,7 +46,7 @@ Este projeto foi implementado como parte das atividades da ResTIC36, seguindo os
 
 3. **Configure a URL da API no arquivo** api.js  
  
-4. **Edição de Usuário**  
+4. **Inicie a aplicação**  
    - npm start
 
 ---
