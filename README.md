@@ -69,5 +69,3 @@ Este projeto foi implementado como parte das atividades da ResTIC36, seguindo os
     AuthContext.tsx
   /types
     User.ts
-
----
